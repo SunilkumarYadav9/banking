@@ -1,0 +1,26 @@
+{
+  "name": "banking",
+  "version": "1.0.0",
+  "description": "Project is for CA",
+  "main": "app.js\u001b[D\u001b[D\u001b[3~\u001b[3~\u001b[3~\u001b[C\u001b[C\u001b[C\u001b[ app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunilkumarYadav9/banking.git"
+  },
+  "author": "sunil kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SunilkumarYadav9/banking/issues"
+  },
+  "homepage": "https://github.com/SunilkumarYadav9/banking#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.2"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
